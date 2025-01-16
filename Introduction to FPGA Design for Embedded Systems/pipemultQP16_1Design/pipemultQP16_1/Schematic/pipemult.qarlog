@@ -1,0 +1,24 @@
+Quartus Prime Archive log --	C:/Users/admin/Documents/FPGA Design for Embedded Systems Specialization/Introduction to FPGA Design for Embedded Systems/pipemultQP16_1Design/pipemultQP16_1/Schematic/pipemult.qarlog
+
+Archive:	C:/Users/admin/Documents/FPGA Design for Embedded Systems Specialization/Introduction to FPGA Design for Embedded Systems/pipemultQP16_1Design/pipemultQP16_1/Schematic/pipemult.qar
+Date:		Fri Nov 08 21:42:07 2024
+Quartus Prime		16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/admin/Documents/FPGA Design for Embedded Systems Specialization/Introduction to FPGA Design for Embedded Systems/pipemultQP16_1Design/pipemultQP16_1/Schematic/mult.bsf
+C:/Users/admin/Documents/FPGA Design for Embedded Systems Specialization/Introduction to FPGA Design for Embedded Systems/pipemultQP16_1Design/pipemultQP16_1/Schematic/mult.cmp
+C:/Users/admin/Documents/FPGA Design for Embedded Systems Specialization/Introduction to FPGA Design for Embedded Systems/pipemultQP16_1Design/pipemultQP16_1/Schematic/mult.qip
+C:/Users/admin/Documents/FPGA Design for Embedded Systems Specialization/Introduction to FPGA Design for Embedded Systems/pipemultQP16_1Design/pipemultQP16_1/Schematic/mult.vhd
+C:/Users/admin/Documents/FPGA Design for Embedded Systems Specialization/Introduction to FPGA Design for Embedded Systems/pipemultQP16_1Design/pipemultQP16_1/Schematic/pipemult.bdf
+C:/Users/admin/Documents/FPGA Design for Embedded Systems Specialization/Introduction to FPGA Design for Embedded Systems/pipemultQP16_1Design/pipemultQP16_1/Schematic/pipemult.qpf
+C:/Users/admin/Documents/FPGA Design for Embedded Systems Specialization/Introduction to FPGA Design for Embedded Systems/pipemultQP16_1Design/pipemultQP16_1/Schematic/pipemult.qsf
+C:/Users/admin/Documents/FPGA Design for Embedded Systems Specialization/Introduction to FPGA Design for Embedded Systems/pipemultQP16_1Design/pipemultQP16_1/Schematic/pipemult.sdc
+C:/Users/admin/Documents/FPGA Design for Embedded Systems Specialization/Introduction to FPGA Design for Embedded Systems/pipemultQP16_1Design/pipemultQP16_1/Schematic/pipemult1.bdf
+C:/Users/admin/Documents/FPGA Design for Embedded Systems Specialization/Introduction to FPGA Design for Embedded Systems/pipemultQP16_1Design/pipemultQP16_1/Schematic/pipemult2.qsf
+C:/Users/admin/Documents/FPGA Design for Embedded Systems Specialization/Introduction to FPGA Design for Embedded Systems/pipemultQP16_1Design/pipemultQP16_1/Schematic/pipemult2.sdc
+C:/Users/admin/Documents/FPGA Design for Embedded Systems Specialization/Introduction to FPGA Design for Embedded Systems/pipemultQP16_1Design/pipemultQP16_1/Schematic/ram.vhd
+c:/intelfpga_lite/16.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 13 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
